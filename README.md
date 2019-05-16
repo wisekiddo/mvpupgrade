@@ -1,5 +1,5 @@
-# MVP Upgrade
-Clean Architecture MVP using latest Android Components
+# MVVM Upgrade
+Clean Architecture MVVM using latest Android Components
 
 ### Used Libraries (of latest)
 
